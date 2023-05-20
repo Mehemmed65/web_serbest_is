@@ -1,0 +1,46 @@
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    color: #e92668;
+}
+
+#div {
+    display: flex;
+    
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+#div2 {
+    margin-left: 24%;
+}
+
+#tutbunu {
+    margin-right: 20px;
+}
+
+#learn-more {
+    
+    margin-right: 24%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#learn-more p button {
+    
+    margin-right: 70%;
+    cursor: pointer;
+    background-color: #e92668;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    
+}
